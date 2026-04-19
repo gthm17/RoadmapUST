@@ -22,7 +22,7 @@ A personalized, interactive React dashboard designed to track preparation, manag
 
 This application is deployed entirely client-side via GitHub Pages. 
 
-**[Click here to view the live dashboard]** *(Replace this text with your actual GitHub Pages link once deployed)*
+**[Click here to view the live dashboard]** *(https://gthm17.github.io/RoadmapUST/)*
 
 ## 💻 How It Works (Architecture)
 
